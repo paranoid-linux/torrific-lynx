@@ -1,0 +1,4 @@
+[submodule "argument-parser"]
+	path = shared_functions/modules/argument-parser
+	url = git@github.com:bash-utilities/argument-parser.git
+	branch = master
